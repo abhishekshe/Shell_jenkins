@@ -1,0 +1,11 @@
+Started by user [8mha:////4Poi0gql6RoDR85y+L3q+4JTjybVXzFp+W8DFslrVm/VAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyhEgZu/dLi1CL9xJTczDwA2jH/8sAAAAA=[0mabhishek narwariya
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins17775541360867517222.sh
++ echo hello abhishek
+hello abhishek
++ date
++ echo todays date is Thu Jul 27 12:38:30 UTC 2023
+todays date is Thu Jul 27 12:38:30 UTC 2023
++ ls
+Finished: SUCCESS
